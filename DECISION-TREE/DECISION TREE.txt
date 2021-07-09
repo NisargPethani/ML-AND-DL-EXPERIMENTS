@@ -1,0 +1,105 @@
+Que: Is CT >= 3.0?
+True:
+|  Que: Is UCSIZE >= 3.0?
+|  True:
+|  |  Que: Is CT >= 5.0?
+|  |  True:
+|  |  |  Que: Is SECSIZE >= 1.0?
+|  |  |  True:
+|  |  |  |  Que: Is UCSHAPE >= 2.0?
+|  |  |  |  True:
+|  |  |  |  |  DIAGNOSIS : [4.0]
+|  |  |  |  False:
+|  |  |  |  |  Que: Is ID >= 8.0?
+|  |  |  |  |  True:
+|  |  |  |  |  |  DIAGNOSIS : [4.0]
+|  |  |  |  |  False:
+|  |  |  |  |  |  Que: Is UCSIZE >= 7.0?
+|  |  |  |  |  |  True:
+|  |  |  |  |  |  |  DIAGNOSIS : [2.0]
+|  |  |  |  |  |  False:
+|  |  |  |  |  |  |  DIAGNOSIS : [4.0]
+|  |  |  False:
+|  |  |  |  Que: Is ID >= 8.0?
+|  |  |  |  True:
+|  |  |  |  |  DIAGNOSIS : [4.0]
+|  |  |  |  False:
+|  |  |  |  |  DIAGNOSIS : [2.0]
+|  |  False:
+|  |  |  Que: Is SECSIZE >= 8.0?
+|  |  |  True:
+|  |  |  |  Que: Is BN >= 4.0?
+|  |  |  |  True:
+|  |  |  |  |  DIAGNOSIS : [4.0]
+|  |  |  |  False:
+|  |  |  |  |  Que: Is ID >= 7.0?
+|  |  |  |  |  True:
+|  |  |  |  |  |  DIAGNOSIS : [4.0]
+|  |  |  |  |  False:
+|  |  |  |  |  |  Que: Is UCSHAPE >= 5.0?
+|  |  |  |  |  |  True:
+|  |  |  |  |  |  |  DIAGNOSIS : [2.0]
+|  |  |  |  |  |  False:
+|  |  |  |  |  |  |  DIAGNOSIS : [4.0]
+|  |  |  False:
+|  |  |  |  Que: Is BC >= 3.0?
+|  |  |  |  True:
+|  |  |  |  |  Que: Is ID >= 5.0?
+|  |  |  |  |  True:
+|  |  |  |  |  |  Que: Is UCSIZE >= 5.0?
+|  |  |  |  |  |  True:
+|  |  |  |  |  |  |  DIAGNOSIS : [4.0]
+|  |  |  |  |  |  False:
+|  |  |  |  |  |  |  Que: Is SECSIZE >= 5.0?
+|  |  |  |  |  |  |  True:
+|  |  |  |  |  |  |  |  DIAGNOSIS : [2.0]
+|  |  |  |  |  |  |  False:
+|  |  |  |  |  |  |  |  DIAGNOSIS : [4.0]
+|  |  |  |  |  False:
+|  |  |  |  |  |  Que: Is UCSHAPE >= 10.0?
+|  |  |  |  |  |  True:
+|  |  |  |  |  |  |  DIAGNOSIS : [4.0]
+|  |  |  |  |  |  False:
+|  |  |  |  |  |  |  DIAGNOSIS : [2.0]
+|  |  |  |  False:
+|  |  |  |  |  Que: Is UCSHAPE >= 4.0?
+|  |  |  |  |  True:
+|  |  |  |  |  |  DIAGNOSIS : [4.0]
+|  |  |  |  |  False:
+|  |  |  |  |  |  DIAGNOSIS : [2.0]
+|  False:
+|  |  Que: Is BN >= 4.0?
+|  |  True:
+|  |  |  Que: Is ID >= 5.0?
+|  |  |  True:
+|  |  |  |  DIAGNOSIS : [4.0]
+|  |  |  False:
+|  |  |  |  DIAGNOSIS : [2.0]
+|  |  False:
+|  |  |  DIAGNOSIS : [2.0]
+False:
+|  Que: Is ID >= 7.0?
+|  True:
+|  |  Que: Is SECSIZE >= 3.0?
+|  |  True:
+|  |  |  DIAGNOSIS : [4.0]
+|  |  False:
+|  |  |  Que: Is UCSIZE >= 4.0?
+|  |  |  True:
+|  |  |  |  DIAGNOSIS : [4.0]
+|  |  |  False:
+|  |  |  |  DIAGNOSIS : [2.0]
+|  False:
+|  |  Que: Is SECSIZE >= 5.0?
+|  |  True:
+|  |  |  Que: Is ID >= 4.0?
+|  |  |  True:
+|  |  |  |  Que: Is UCSHAPE >= 10.0?
+|  |  |  |  True:
+|  |  |  |  |  DIAGNOSIS : [2.0]
+|  |  |  |  False:
+|  |  |  |  |  DIAGNOSIS : [4.0]
+|  |  |  False:
+|  |  |  |  DIAGNOSIS : [2.0]
+|  |  False:
+|  |  |  DIAGNOSIS : [2.0]
