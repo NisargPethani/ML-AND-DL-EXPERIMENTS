@@ -7,3 +7,4 @@ Following algorithms are implemented from scrach.
 3. [KNN Classifire](/KNN-CLASSIFIRE)
 4. [KNN Regression](/KNN-REGRESSION)
 5. [Linear Regression](/LINEAR-REGRESSION)
+6. [Logistic Regression](/LOGISTIC-REGRESSION)
