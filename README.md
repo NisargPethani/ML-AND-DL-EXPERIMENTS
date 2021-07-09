@@ -6,3 +6,4 @@ Following algorithms are implemented from scrach.
 2. [Kmeans & Kmeans++](/KMEANS-AND-KMEANS++)
 3. [KNN Classifire](/KNN-CLASSIFIRE)
 4. [KNN Regression](/KNN-REGRESSION)
+5. [Linear Regression](/LINEAR-REGRESSION)
