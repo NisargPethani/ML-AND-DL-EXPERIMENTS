@@ -8,3 +8,4 @@ Following algorithms are implemented from scrach.
 4. [KNN Regression](/KNN-REGRESSION)
 5. [Linear Regression](/LINEAR-REGRESSION)
 6. [Logistic Regression](/LOGISTIC-REGRESSION)
+7. [SVM](/SVM)
