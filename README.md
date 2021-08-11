@@ -10,3 +10,4 @@ Following algorithms are implemented from scrach.
 6. [Logistic Regression](/LOGISTIC-REGRESSION)
 7. [SVM](/SVM)
 8. [CNN](/CNN)
+9. [Auto-Encoder](/AUTOENCODER)
